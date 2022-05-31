@@ -1,5 +1,5 @@
 {
-"newVersion": "1.1.1",
+"newVersion": "1.1.2",
 "apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.alz",
 "versionNotes":"
 - Added Security Application
